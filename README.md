@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devilal Panchal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java Script and Css advanced**
+- 🌱 I’m currently learning **Java Script Advanced**
 
 - 📫 How to reach me **devilalpanchal551@gmail.com**
 

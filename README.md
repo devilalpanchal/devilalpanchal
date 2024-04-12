@@ -20,14 +20,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devilalpanchal&show_icons=true&locale=en" alt="devilalpanchal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devilalpanchal&" alt="devilalpanchal" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=mayank-garg7&theme=dracula&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devilalpanchal&theme=dracula&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank-Garg7&theme=aura) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mayank-Garg7&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mayank-Garg7&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mayank-Garg7&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mayank-Garg7&theme=aura&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devilalpanchal&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devilalpanchal&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devilalpanchal&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devilalpanchal&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devilalpanchal&theme=aura&utcOffset=8)
 
-[![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayank-garg7&show_icons=true&theme=dracula)](https://github.com/mayank-garg7)
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-garg7&theme=dracula)](https://github.com/mayank-garg7)
+[![Devid's github stats](https://github-readme-stats.vercel.app/api?username=devilalpanchal&show_icons=true&theme=dracula)](https://github.com/devilalpanchal)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=devilalpanchal&theme=dracula)](https://github.com/devilalpanachal)
 

@@ -32,3 +32,6 @@
 [![Devid's github stats](https://github-readme-stats.vercel.app/api?username=devilalpanchal&show_icons=true&theme=dracula)](https://github.com/devilalpanchal)
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=devilalpanchal&theme=dracula)](https://github.com/devilalpanachal)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilalpanchal" alt="devilalpanchal" /></a> </p>
+
+
